@@ -4,15 +4,15 @@ Ce projet est un système de gestion pour bars développé en Node.js avec une b
 ## Fonctionnalités
 ### Pour les Bars
 
-Création et gestion de compte bar  
-Commande de machine  
-Gestion des commandes existantes
+* Création et gestion de compte bar  
+* Commande de machine  
+* Gestion des commandes existantes
 
 ### Pour les Citoyens
 
-Création et gestion de compte utilisateur  
-Consultation des bars dans leur localité  
-Dépôt d'avis et sur les questions citoyennes
+* Création et gestion de compte utilisateur  
+* Consultation des bars dans leur localité  
+* Dépôt d'avis et sur les questions citoyennes
 
 ## Installation et Démarrage
 
