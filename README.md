@@ -12,7 +12,7 @@ Ce projet est un système de gestion pour bars développé en Node.js avec une b
 
 * Création et gestion de compte utilisateur  
 * Consultation des bars dans leur localité  
-* Dépôt d'avis et sur les questions citoyennes
+* Dépôt d'avis sur des questions citoyennes
 
 ## Installation et Démarrage
 
