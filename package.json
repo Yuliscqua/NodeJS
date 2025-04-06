@@ -1,0 +1,16 @@
+{
+  "name": "bar-management-system",
+  "version": "1.0.0",
+  "description": "Système de gestion de bars avec Knex et SQLite3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "migrate": "knex migrate:latest",
+    "seed": "knex seed:run"
+  },
+  "dependencies": {
+    "knex": "^2.5.1",
+    "sqlite3": "^5.1.6",
+    "readline-sync": "^1.4.10"
+  }
+}
