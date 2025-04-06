@@ -16,9 +16,9 @@ Dépôt d'avis et sur les questions citoyennes
 
 ## Installation et Démarrage
 
-1. Clonez ce dépôt avec : *** git clone [URL_DU_REPO] cd [NOM_DU_DOSSIER] ***
-2. Installer les dépendances : *** npm install ***
-3. Pour lancer l'application : ***  npm start ***
+1. Clonez ce dépôt avec : ***git clone [URL_DU_REPO] cd [NOM_DU_DOSSIER]***
+2. Installer les dépendances : ***npm install***
+3. Pour lancer l'application : ***npm start***
 
 ## Technologies utilisées
 
